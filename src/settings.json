@@ -1,0 +1,14 @@
+{
+  "environments":{
+    "prod":{
+      "api":{
+        "uri":"http://localhost"
+      }
+    },
+    "dev":{
+      "api":{
+        "uri":"http://localhost"
+      }
+    }
+  }
+}
